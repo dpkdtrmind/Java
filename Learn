@@ -1,9 +1,9 @@
-JAVA { }
+## JAVA { }
 https://docs.oracle.com/javase/8/docs/api/
 
 New Project > Source Code (SRC) > "New Package" > New Class (Class.java)
 
-Class
+## Class
 public class <classname> { }
 Main Method
 public static void main(String[] args) { } -> String with S Capital and []
