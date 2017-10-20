@@ -18,7 +18,7 @@
 
 # Variable Assignment: 
 int X;   <- int is the reference type of X
-X = Y;  <- # reference type for a variable will be once. By seeing no reference type we can get a hint that its already referenced some where else before.
+X = Y;  <- **reference** type for a variable will be once. By seeing no reference type we can get a hint that its already referenced some where else before.
 * Here Value Y is assigned/referenced in to Variable X
 * X <- Y; before assigning value Y into X, we should define what kind of X is that
 Objects
