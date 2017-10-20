@@ -1,8 +1,9 @@
 ## JAVA SE { }
 
-Types of Data:
+
+# Types of Data:
 > Primitives have only data whereas objects have data and behaviors
-Primitive (8 types)
+# Primitive (8 types)
 * byte: Integers (default value is 0)
 * short: Integers (default value is 0)
 * int: Integers (default value is 0)
@@ -11,6 +12,15 @@ Primitive (8 types)
 * double: Decimal of 64 bit (default value is 0.0)
 * boolean: True/False (default value is False)
 * char: 1 character in ‘colons’ (default value as NULL character; \u0000)
+# Objects
+* String (Strings are Objects as they are immutable; can’t be changed once assigned): “Text"; Strings are always in “Quotations” 
+* Point
+
+# Variable Assignment: 
+int X;   <- int is the reference type of X
+X = Y;  <- # reference type for a variable will be once. By seeing no reference type we can get a hint that its already referenced some where else before.
+* Here Value Y is assigned/referenced in to Variable X
+* X <- Y; before assigning value Y into X, we should define what kind of X is that
 Objects
 * String (Strings are Objects as they are immutable; can’t be changed once assigned): “Text"; Strings are always in “Quotations” 
 * Point
