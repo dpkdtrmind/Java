@@ -1,9 +1,9 @@
 ## JAVA SE { }
 
 
-# Types of Data:
+### Types of Data:
 > Primitives have only data whereas objects have data and behaviors
-# Primitive (8 types)
+### Primitive (8 types)
 * byte: Integers (default value is 0)
 * short: Integers (default value is 0)
 * int: Integers (default value is 0)
