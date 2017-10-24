@@ -290,7 +290,7 @@ unary
 multiplicative 
 * / % (P E M D A S)
 additive
-+ -
+[ + - ]
 shift 
 << (left shift signed) >> (right shift signed) >>> (right shift unsigned)
 relational 
