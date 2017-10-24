@@ -135,8 +135,8 @@ Garbage Collector: A special run time memory management by JVM
 * When a Local variable in frame is linked with another object or null, the first object is automatically sent to garbage collector
 
 this Object
-# If Instance/Object Variables and Method/Constructor Parameters are same, we refer (this dot/this object) to all Object variables inside Method/Constructor and referenced to this object by making to this.Object_Variables (this differentiate Object Variables and Method/Constructor Parameters)
-“this” is a part of inheritance which means the object class itself
+* If Instance/Object Variables and Method/Constructor Parameters are same, we refer (this dot/this object) to all Object variables inside Method/Constructor and referenced to this object by making to this.Object_Variables (this differentiate Object Variables and Method/Constructor Parameters)
+* “this” is a part of inheritance which means the object class itself
 (There are three types of Variables: Class or static, Instance or Object and Local Variables)
 
 this Constructor: It is used for Nested or Chain Constructors
@@ -289,7 +289,7 @@ unary
 ++expr --expr +expr -expr ~ !
 multiplicative 
 * / % (P E M D A S)
-additive 
+additive
 + -
 shift 
 << (left shift signed) >> (right shift signed) >>> (right shift unsigned)
